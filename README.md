@@ -102,10 +102,7 @@ Breast_Cancer_Detection.ipynb
     - Recall
     - F1 Score
     - Confusion Matrix
-- Save Results
-```bash
-df.to_csv("breakhis_results.csv", index=False)
-```
+
 
 ## Output
 - Model performance comparison across architectures
