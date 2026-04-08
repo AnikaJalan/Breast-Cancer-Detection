@@ -1,4 +1,4 @@
-# Breast Cancer Detection using Deep Learning
+# Breast Cancer Detection 
 
 ## Overview
 This project focuses on detecting breast cancer (benign vs malignant) using deep learning models on histopathological images. It leverages multiple pre-trained CNN architectures and compares their performance under different data augmentation strategies.
