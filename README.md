@@ -107,7 +107,6 @@ Breast_Cancer_Detection.ipynb
 ## Output
 - Model performance comparison across architectures
 - Impact of different augmentation techniques
-- CSV file (breakhis_results.csv) containing:
 - Model name
   - Augmentation type
   - Accuracy
